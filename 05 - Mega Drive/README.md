@@ -2,7 +2,7 @@
 
 Colecao TURBORAMA de Mega Drive / Sega Genesis.
 
-- Capas publicadas: 917
+- Capas publicadas: 957
 - Catalogo total: 998 jogos
 - Formato: PNG
 - Resolucao: 1024 x 1536
