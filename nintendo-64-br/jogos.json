@@ -1,0 +1,106 @@
+{
+  "sistema": "Nintendo 64 BR",
+  "total": 20,
+  "jogos": [
+    {
+      "rom": "007 GoldenEye.z64",
+      "titulo": "007 GoldenEye",
+      "capa": "007 GoldenEye.png"
+    },
+    {
+      "rom": "Automobili Lamborghini.z64",
+      "titulo": "Automobili Lamborghini",
+      "capa": "Automobili Lamborghini.png"
+    },
+    {
+      "rom": "Banjo-Kazooie.n64",
+      "titulo": "Banjo-Kazooie",
+      "capa": "Banjo-Kazooie.png"
+    },
+    {
+      "rom": "Cruis'n Exotica.z64",
+      "titulo": "Cruis'n Exotica",
+      "capa": "Cruis'n Exotica.png"
+    },
+    {
+      "rom": "Diddy Kong Racing.z64",
+      "titulo": "Diddy Kong Racing",
+      "capa": "Diddy Kong Racing.png"
+    },
+    {
+      "rom": "Doom 64.z64",
+      "titulo": "Doom 64",
+      "capa": "Doom 64.png"
+    },
+    {
+      "rom": "FIFA 99.n64",
+      "titulo": "FIFA 99",
+      "capa": "FIFA 99.png"
+    },
+    {
+      "rom": "Gex 3 Deep Cover Gecko.z64",
+      "titulo": "Gex 3 Deep Cover Gecko",
+      "capa": "Gex 3 Deep Cover Gecko.png"
+    },
+    {
+      "rom": "Jet Force Gemini.z64",
+      "titulo": "Jet Force Gemini",
+      "capa": "Jet Force Gemini.png"
+    },
+    {
+      "rom": "Paper Mario 64",
+      "titulo": "Paper Mario 64",
+      "capa": "Paper Mario 64.png"
+    },
+    {
+      "rom": "Perfect Dark.z64",
+      "titulo": "Perfect Dark",
+      "capa": "Perfect Dark.png"
+    },
+    {
+      "rom": "Pokemon Stadium.z64",
+      "titulo": "Pokemon Stadium",
+      "capa": "Pokemon Stadium.png"
+    },
+    {
+      "rom": "Shadow Man.v64",
+      "titulo": "Shadow Man",
+      "capa": "Shadow Man.png"
+    },
+    {
+      "rom": "South Park.z64",
+      "titulo": "South Park",
+      "capa": "South Park.png"
+    },
+    {
+      "rom": "Space Station Silicon Valley.n64",
+      "titulo": "Space Station Silicon Valley",
+      "capa": "Space Station Silicon Valley.png"
+    },
+    {
+      "rom": "Star Fox 64.z64",
+      "titulo": "Star Fox 64",
+      "capa": "Star Fox 64.png"
+    },
+    {
+      "rom": "Super Mario 64.z64",
+      "titulo": "Super Mario 64",
+      "capa": "Super Mario 64.png"
+    },
+    {
+      "rom": "The Legend of Zelda - Ocarina of Time.z64",
+      "titulo": "The Legend of Zelda - Ocarina of Time",
+      "capa": "The Legend of Zelda - Ocarina of Time.png"
+    },
+    {
+      "rom": "Turok 2 - Seeds of Evil.z64",
+      "titulo": "Turok 2 - Seeds of Evil",
+      "capa": "Turok 2 - Seeds of Evil.png"
+    },
+    {
+      "rom": "Turok 3 - Shadow of Oblivion.z64",
+      "titulo": "Turok 3 - Shadow of Oblivion",
+      "capa": "Turok 3 - Shadow of Oblivion.png"
+    }
+  ]
+}

@@ -1,0 +1,707 @@
+{
+  "sistema": "Neo Geo",
+  "total": 140,
+  "biosExcluida": "neogeo.zip",
+  "jogos": [
+    {
+      "rom": "2020bb.zip",
+      "titulo": "2020 Super Baseball",
+      "capa": "2020bb - 2020 Super Baseball.png"
+    },
+    {
+      "rom": "3countb.zip",
+      "titulo": "3 Count Bout",
+      "capa": "3countb - 3 Count Bout.png"
+    },
+    {
+      "rom": "alpham2.zip",
+      "titulo": "Alpha Mission II",
+      "capa": "alpham2 - Alpha Mission II.png"
+    },
+    {
+      "rom": "androdun.zip",
+      "titulo": "Andro Dunos",
+      "capa": "androdun - Andro Dunos.png"
+    },
+    {
+      "rom": "aodk.zip",
+      "titulo": "Aggressors of Dark Kombat",
+      "capa": "aodk - Aggressors of Dark Kombat.png"
+    },
+    {
+      "rom": "aof.zip",
+      "titulo": "Art of Fighting",
+      "capa": "aof - Art of Fighting.png"
+    },
+    {
+      "rom": "aof2.zip",
+      "titulo": "Art of Fighting 2",
+      "capa": "aof2 - Art of Fighting 2.png"
+    },
+    {
+      "rom": "aof3.zip",
+      "titulo": "Art of Fighting 3 : The Path of the Warrior",
+      "capa": "aof3 - Art of Fighting 3 - The Path of the Warrior.png"
+    },
+    {
+      "rom": "bangbead.zip",
+      "titulo": "Bang Bead",
+      "capa": "bangbead - Bang Bead.png"
+    },
+    {
+      "rom": "bjourney.zip",
+      "titulo": "Blue's Journey",
+      "capa": "bjourney - Blue's Journey.png"
+    },
+    {
+      "rom": "blazstar.zip",
+      "titulo": "Blazing Star",
+      "capa": "blazstar - Blazing Star.png"
+    },
+    {
+      "rom": "breakers.zip",
+      "titulo": "Breakers",
+      "capa": "breakers - Breakers.png"
+    },
+    {
+      "rom": "breakrev.zip",
+      "titulo": "Breakers Revenge",
+      "capa": "breakrev - Breakers Revenge.png"
+    },
+    {
+      "rom": "bstars.zip",
+      "titulo": "Baseball Stars Professional",
+      "capa": "bstars - Baseball Stars Professional.png"
+    },
+    {
+      "rom": "bstars2.zip",
+      "titulo": "Baseball Stars 2",
+      "capa": "bstars2 - Baseball Stars 2.png"
+    },
+    {
+      "rom": "burningf.zip",
+      "titulo": "Burning Fight",
+      "capa": "burningf - Burning Fight.png"
+    },
+    {
+      "rom": "crsword.zip",
+      "titulo": "Crossed Swords",
+      "capa": "crsword - Crossed Swords.png"
+    },
+    {
+      "rom": "ctomaday.zip",
+      "titulo": "Captain Tomaday",
+      "capa": "ctomaday - Captain Tomaday.png"
+    },
+    {
+      "rom": "cyberlip.zip",
+      "titulo": "Cyber-Lip",
+      "capa": "cyberlip - Cyber-Lip.png"
+    },
+    {
+      "rom": "doubledr.zip",
+      "titulo": "Double Dragon",
+      "capa": "doubledr - Double Dragon.png"
+    },
+    {
+      "rom": "eightman.zip",
+      "titulo": "Eight Man",
+      "capa": "eightman - Eight Man.png"
+    },
+    {
+      "rom": "fatfursp.zip",
+      "titulo": "Fatal Fury Special",
+      "capa": "fatfursp - Fatal Fury Special.png"
+    },
+    {
+      "rom": "fatfury1.zip",
+      "titulo": "Fatal Fury : King of Fighters",
+      "capa": "fatfury1 - Fatal Fury - King of Fighters.png"
+    },
+    {
+      "rom": "fatfury2.zip",
+      "titulo": "Fatal Fury 2",
+      "capa": "fatfury2 - Fatal Fury 2.png"
+    },
+    {
+      "rom": "fatfury3.zip",
+      "titulo": "Fatal Fury 3: Road to the Final Victory",
+      "capa": "fatfury3 - Fatal Fury 3- Road to the Final Victory.png"
+    },
+    {
+      "rom": "fbfrenzy.zip",
+      "titulo": "Football Frenzy",
+      "capa": "fbfrenzy - Football Frenzy.png"
+    },
+    {
+      "rom": "fightfev.zip",
+      "titulo": "Fight Fever",
+      "capa": "fightfev - Fight Fever.png"
+    },
+    {
+      "rom": "flipshot.zip",
+      "titulo": "Battle Flip Shot",
+      "capa": "flipshot - Battle Flip Shot.png"
+    },
+    {
+      "rom": "galaxyfg.zip",
+      "titulo": "Galaxy Fight: Universal Warriors",
+      "capa": "galaxyfg - Galaxy Fight- Universal Warriors.png"
+    },
+    {
+      "rom": "ganryu.zip",
+      "titulo": "Ganryu",
+      "capa": "ganryu - Ganryu.png"
+    },
+    {
+      "rom": "garou.zip",
+      "titulo": "Garou: Mark of the Wolves",
+      "capa": "garou - Garou- Mark of the Wolves.png"
+    },
+    {
+      "rom": "ghostlop.zip",
+      "titulo": "Ghostlop",
+      "capa": "ghostlop - Ghostlop.png"
+    },
+    {
+      "rom": "goalx3.zip",
+      "titulo": "Goal! Goal! Goal!",
+      "capa": "goalx3 - Goal! Goal! Goal!.png"
+    },
+    {
+      "rom": "gowcaizr.zip",
+      "titulo": "Voltage Fighter Gowcaizer",
+      "capa": "gowcaizr - Voltage Fighter Gowcaizer.png"
+    },
+    {
+      "rom": "gpilots.zip",
+      "titulo": "Ghost Pilots",
+      "capa": "gpilots - Ghost Pilots.png"
+    },
+    {
+      "rom": "gururin.zip",
+      "titulo": "Gururin",
+      "capa": "gururin - Gururin.png"
+    },
+    {
+      "rom": "ironclad.zip",
+      "titulo": "Ironclad",
+      "capa": "ironclad - Ironclad.png"
+    },
+    {
+      "rom": "irrmaze.zip",
+      "titulo": "The Irritating Maze",
+      "capa": "irrmaze - The Irritating Maze.png"
+    },
+    {
+      "rom": "joyjoy.zip",
+      "titulo": "Puzzled",
+      "capa": "joyjoy - Puzzled.png"
+    },
+    {
+      "rom": "kabukikl.zip",
+      "titulo": "Far East of Eden: Kabuki Klash",
+      "capa": "kabukikl - Far East of Eden- Kabuki Klash.png"
+    },
+    {
+      "rom": "karnovr.zip",
+      "titulo": "Karnov's Revenge",
+      "capa": "karnovr - Karnov's Revenge.png"
+    },
+    {
+      "rom": "kizuna.zip",
+      "titulo": "Kizuna Encounter - Super Tag Battle",
+      "capa": "kizuna - Kizuna Encounter - Super Tag Battle.png"
+    },
+    {
+      "rom": "kof2000.zip",
+      "titulo": "The King of Fighters 2000",
+      "capa": "kof2000 - The King of Fighters 2000.png"
+    },
+    {
+      "rom": "kof2001.zip",
+      "titulo": "The King of Fighters 2001",
+      "capa": "kof2001 - The King of Fighters 2001.png"
+    },
+    {
+      "rom": "kof2002.zip",
+      "titulo": "The King of Fighters 2002",
+      "capa": "kof2002 - The King of Fighters 2002.png"
+    },
+    {
+      "rom": "kof2003.zip",
+      "titulo": "The King of Fighters 2003",
+      "capa": "kof2003 - The King of Fighters 2003.png"
+    },
+    {
+      "rom": "kof94.zip",
+      "titulo": "The King of Fighters '94",
+      "capa": "kof94 - The King of Fighters '94.png"
+    },
+    {
+      "rom": "kof95.zip",
+      "titulo": "The King of Fighters '95",
+      "capa": "kof95 - The King of Fighters '95.png"
+    },
+    {
+      "rom": "kof96.zip",
+      "titulo": "The King of Fighters '96",
+      "capa": "kof96 - The King of Fighters '96.png"
+    },
+    {
+      "rom": "kof97.zip",
+      "titulo": "The King of Fighters '97",
+      "capa": "kof97 - The King of Fighters '97.png"
+    },
+    {
+      "rom": "kof98.zip",
+      "titulo": "The King of Fighters '98",
+      "capa": "kof98 - The King of Fighters '98.png"
+    },
+    {
+      "rom": "kof99.zip",
+      "titulo": "The King of Fighters '99 : Millennium Battle",
+      "capa": "kof99 - The King of Fighters '99 - Millennium Battle.png"
+    },
+    {
+      "rom": "kotm.zip",
+      "titulo": "King of the Monsters",
+      "capa": "kotm - King of the Monsters.png"
+    },
+    {
+      "rom": "kotm2.zip",
+      "titulo": "King of the Monsters 2 - The Next Thing",
+      "capa": "kotm2 - King of the Monsters 2 - The Next Thing.png"
+    },
+    {
+      "rom": "lastblad.zip",
+      "titulo": "The Last Blade",
+      "capa": "lastblad - The Last Blade.png"
+    },
+    {
+      "rom": "lastbld2.zip",
+      "titulo": "The Last Blade 2",
+      "capa": "lastbld2 - The Last Blade 2.png"
+    },
+    {
+      "rom": "lbowling.zip",
+      "titulo": "League Bowling",
+      "capa": "lbowling - League Bowling.png"
+    },
+    {
+      "rom": "legendos.zip",
+      "titulo": "Legend of Success Joe",
+      "capa": "legendos - Legend of Success Joe.png"
+    },
+    {
+      "rom": "lresort.zip",
+      "titulo": "Last Resort",
+      "capa": "lresort - Last Resort.png"
+    },
+    {
+      "rom": "magdrop2.zip",
+      "titulo": "Magical Drop II",
+      "capa": "magdrop2 - Magical Drop II.png"
+    },
+    {
+      "rom": "magdrop3.zip",
+      "titulo": "Magical Drop III",
+      "capa": "magdrop3 - Magical Drop III.png"
+    },
+    {
+      "rom": "maglord.zip",
+      "titulo": "Magician Lord",
+      "capa": "maglord - Magician Lord.png"
+    },
+    {
+      "rom": "matrim.zip",
+      "titulo": "Matrimelee",
+      "capa": "matrim - Matrimelee.png"
+    },
+    {
+      "rom": "miexchng.zip",
+      "titulo": "Money Puzzle Exchanger",
+      "capa": "miexchng - Money Puzzle Exchanger.png"
+    },
+    {
+      "rom": "mslug.zip",
+      "titulo": "Metal Slug - Super Vehicle-001",
+      "capa": "mslug - Metal Slug - Super Vehicle-001.png"
+    },
+    {
+      "rom": "mslug2.zip",
+      "titulo": "Metal Slug 2 - Super Vehicle-001/II",
+      "capa": "mslug2 - Metal Slug 2 - Super Vehicle-001-II.png"
+    },
+    {
+      "rom": "mslug3.zip",
+      "titulo": "Metal Slug 3",
+      "capa": "mslug3 - Metal Slug 3.png"
+    },
+    {
+      "rom": "mslug4.zip",
+      "titulo": "Metal Slug 4",
+      "capa": "mslug4 - Metal Slug 4.png"
+    },
+    {
+      "rom": "mslug5.zip",
+      "titulo": "Metal Slug 5",
+      "capa": "mslug5 - Metal Slug 5.png"
+    },
+    {
+      "rom": "mslugx.zip",
+      "titulo": "Metal Slug X - Super Vehicle-001",
+      "capa": "mslugx - Metal Slug X - Super Vehicle-001.png"
+    },
+    {
+      "rom": "mutnat.zip",
+      "titulo": "Mutation Nation",
+      "capa": "mutnat - Mutation Nation.png"
+    },
+    {
+      "rom": "nam1975.zip",
+      "titulo": "NAM-1975",
+      "capa": "nam1975 - NAM-1975.png"
+    },
+    {
+      "rom": "ncombat.zip",
+      "titulo": "Ninja Combat",
+      "capa": "ncombat - Ninja Combat.png"
+    },
+    {
+      "rom": "ncommand.zip",
+      "titulo": "Ninja Commando",
+      "capa": "ncommand - Ninja Commando.png"
+    },
+    {
+      "rom": "neobombe.zip",
+      "titulo": "Neo Bomberman",
+      "capa": "neobombe - Neo Bomberman.png"
+    },
+    {
+      "rom": "neocup98.zip",
+      "titulo": "Neo-Geo Cup '98 - The Road to the Victory",
+      "capa": "neocup98 - Neo-Geo Cup '98 - The Road to the Victory.png"
+    },
+    {
+      "rom": "neodrift.zip",
+      "titulo": "Neo Drift Out - New Technology",
+      "capa": "neodrift - Neo Drift Out - New Technology.png"
+    },
+    {
+      "rom": "neomrdo.zip",
+      "titulo": "Neo Mr. Do!",
+      "capa": "neomrdo - Neo Mr. Do!.png"
+    },
+    {
+      "rom": "ninjamas.zip",
+      "titulo": "Ninja Master's: Haō Ninpō Chō",
+      "capa": "ninjamas - Ninja Master's- Haō Ninpō Chō.png"
+    },
+    {
+      "rom": "nitd.zip",
+      "titulo": "Nightmare in the Dark",
+      "capa": "nitd - Nightmare in the Dark.png"
+    },
+    {
+      "rom": "overtop.zip",
+      "titulo": "Over Top",
+      "capa": "overtop - Over Top.png"
+    },
+    {
+      "rom": "panicbom.zip",
+      "titulo": "Panic Bomber",
+      "capa": "panicbom - Panic Bomber.png"
+    },
+    {
+      "rom": "pbobbl2n.zip",
+      "titulo": "Puzzle Bobble 2",
+      "capa": "pbobbl2n - Puzzle Bobble 2.png"
+    },
+    {
+      "rom": "pbobblen.zip",
+      "titulo": "Puzzle Bobble",
+      "capa": "pbobblen - Puzzle Bobble.png"
+    },
+    {
+      "rom": "pgoal.zip",
+      "titulo": "Pleasure Goal : 5 on 5 Mini Soccer",
+      "capa": "pgoal - Pleasure Goal - 5 on 5 Mini Soccer.png"
+    },
+    {
+      "rom": "pnyaa.zip",
+      "titulo": "Pochi and Nyaa",
+      "capa": "pnyaa - Pochi and Nyaa.png"
+    },
+    {
+      "rom": "popbounc.zip",
+      "titulo": "Pop 'n Bounce",
+      "capa": "popbounc - Pop 'n Bounce.png"
+    },
+    {
+      "rom": "preisle2.zip",
+      "titulo": "Prehistoric Isle 2",
+      "capa": "preisle2 - Prehistoric Isle 2.png"
+    },
+    {
+      "rom": "pspikes2.zip",
+      "titulo": "Power Spikes II",
+      "capa": "pspikes2 - Power Spikes II.png"
+    },
+    {
+      "rom": "pulstar.zip",
+      "titulo": "Pulstar",
+      "capa": "pulstar - Pulstar.png"
+    },
+    {
+      "rom": "puzzledp.zip",
+      "titulo": "Puzzle De Pon!",
+      "capa": "puzzledp - Puzzle De Pon!.png"
+    },
+    {
+      "rom": "ragnagrd.zip",
+      "titulo": "Ragnagard",
+      "capa": "ragnagrd - Ragnagard.png"
+    },
+    {
+      "rom": "rbff1.zip",
+      "titulo": "Real Bout Fatal Fury",
+      "capa": "rbff1 - Real Bout Fatal Fury.png"
+    },
+    {
+      "rom": "rbff2.zip",
+      "titulo": "Real Bout Fatal Fury 2 - The Newcomers",
+      "capa": "rbff2 - Real Bout Fatal Fury 2 - The Newcomers.png"
+    },
+    {
+      "rom": "rbffspec.zip",
+      "titulo": "Real Bout Fatal Fury Special",
+      "capa": "rbffspec - Real Bout Fatal Fury Special.png"
+    },
+    {
+      "rom": "ridhero.zip",
+      "titulo": "Riding Hero",
+      "capa": "ridhero - Riding Hero.png"
+    },
+    {
+      "rom": "roboarmy.zip",
+      "titulo": "Robo Army",
+      "capa": "roboarmy - Robo Army.png"
+    },
+    {
+      "rom": "rotd.zip",
+      "titulo": "Rage of the Dragons",
+      "capa": "rotd - Rage of the Dragons.png"
+    },
+    {
+      "rom": "s1945p.zip",
+      "titulo": "Strikers 1945 Plus",
+      "capa": "s1945p - Strikers 1945 Plus.png"
+    },
+    {
+      "rom": "samsh5sp.zip",
+      "titulo": "Samurai Shodown V Special",
+      "capa": "samsh5sp - Samurai Shodown V Special.png"
+    },
+    {
+      "rom": "samsho.zip",
+      "titulo": "Samurai Shodown",
+      "capa": "samsho - Samurai Shodown.png"
+    },
+    {
+      "rom": "samsho2.zip",
+      "titulo": "Samurai Shodown II",
+      "capa": "samsho2 - Samurai Shodown II.png"
+    },
+    {
+      "rom": "samsho3.zip",
+      "titulo": "Samurai Shodown III",
+      "capa": "samsho3 - Samurai Shodown III.png"
+    },
+    {
+      "rom": "samsho4.zip",
+      "titulo": "Samurai Shodown IV - Amakusa's Revenge",
+      "capa": "samsho4 - Samurai Shodown IV - Amakusa's Revenge.png"
+    },
+    {
+      "rom": "samsho5.zip",
+      "titulo": "Samurai Shodown V",
+      "capa": "samsho5 - Samurai Shodown V.png"
+    },
+    {
+      "rom": "savagere.zip",
+      "titulo": "Savage Reign",
+      "capa": "savagere - Savage Reign.png"
+    },
+    {
+      "rom": "sdodgeb.zip",
+      "titulo": "Super Dodge Ball",
+      "capa": "sdodgeb - Super Dodge Ball.png"
+    },
+    {
+      "rom": "sengoku.zip",
+      "titulo": "Sengoku",
+      "capa": "sengoku - Sengoku.png"
+    },
+    {
+      "rom": "sengoku2.zip",
+      "titulo": "Sengoku 2",
+      "capa": "sengoku2 - Sengoku 2.png"
+    },
+    {
+      "rom": "sengoku3.zip",
+      "titulo": "Sengoku 3",
+      "capa": "sengoku3 - Sengoku 3.png"
+    },
+    {
+      "rom": "shocktr2.zip",
+      "titulo": "Shock Troopers : 2nd Squad",
+      "capa": "shocktr2 - Shock Troopers - 2nd Squad.png"
+    },
+    {
+      "rom": "shocktro.zip",
+      "titulo": "Shock Troopers",
+      "capa": "shocktro - Shock Troopers.png"
+    },
+    {
+      "rom": "socbrawl.zip",
+      "titulo": "Soccer Brawl",
+      "capa": "socbrawl - Soccer Brawl.png"
+    },
+    {
+      "rom": "sonicwi2.zip",
+      "titulo": "Aero Fighters 2",
+      "capa": "sonicwi2 - Aero Fighters 2.png"
+    },
+    {
+      "rom": "sonicwi3.zip",
+      "titulo": "Aero Fighters 3",
+      "capa": "sonicwi3 - Aero Fighters 3.png"
+    },
+    {
+      "rom": "spinmast.zip",
+      "titulo": "Spin Master",
+      "capa": "spinmast - Spin Master.png"
+    },
+    {
+      "rom": "ssideki.zip",
+      "titulo": "Super Sidekicks",
+      "capa": "ssideki - Super Sidekicks.png"
+    },
+    {
+      "rom": "ssideki2.zip",
+      "titulo": "Super Sidekicks 2 - The World Championship",
+      "capa": "ssideki2 - Super Sidekicks 2 - The World Championship.png"
+    },
+    {
+      "rom": "ssideki3.zip",
+      "titulo": "Super Sidekicks 3 - The Next Glory",
+      "capa": "ssideki3 - Super Sidekicks 3 - The Next Glory.png"
+    },
+    {
+      "rom": "ssideki4.zip",
+      "titulo": "The Ultimate 11: SNK Football Championship",
+      "capa": "ssideki4 - The Ultimate 11- SNK Football Championship.png"
+    },
+    {
+      "rom": "stakwin.zip",
+      "titulo": "Stakes Winner",
+      "capa": "stakwin - Stakes Winner.png"
+    },
+    {
+      "rom": "stakwin2.zip",
+      "titulo": "Stakes Winner 2",
+      "capa": "stakwin2 - Stakes Winner 2.png"
+    },
+    {
+      "rom": "strhoop.zip",
+      "titulo": "Street Hoop",
+      "capa": "strhoop - Street Hoop.png"
+    },
+    {
+      "rom": "superspy.zip",
+      "titulo": "The Super Spy",
+      "capa": "superspy - The Super Spy.png"
+    },
+    {
+      "rom": "svc.zip",
+      "titulo": "SVC Chaos - SNK Vs. Capcom",
+      "capa": "svc - SVC Chaos - SNK Vs. Capcom.png"
+    },
+    {
+      "rom": "tophuntr.zip",
+      "titulo": "Top Hunter: Roddy & Cathy",
+      "capa": "tophuntr - Top Hunter- Roddy & Cathy.png"
+    },
+    {
+      "rom": "tpgolf.zip",
+      "titulo": "Top Player's Golf",
+      "capa": "tpgolf - Top Player's Golf.png"
+    },
+    {
+      "rom": "trally.zip",
+      "titulo": "Thrash Rally",
+      "capa": "trally - Thrash Rally.png"
+    },
+    {
+      "rom": "turfmast.zip",
+      "titulo": "Neo Turf Masters",
+      "capa": "turfmast - Neo Turf Masters.png"
+    },
+    {
+      "rom": "twinspri.zip",
+      "titulo": "Twinkle Star Sprites",
+      "capa": "twinspri - Twinkle Star Sprites.png"
+    },
+    {
+      "rom": "tws96.zip",
+      "titulo": "Tecmo World Soccer '96",
+      "capa": "tws96 - Tecmo World Soccer '96.png"
+    },
+    {
+      "rom": "viewpoin.zip",
+      "titulo": "Viewpoint",
+      "capa": "viewpoin - Viewpoint.png"
+    },
+    {
+      "rom": "wakuwak7.zip",
+      "titulo": "Waku Waku 7",
+      "capa": "wakuwak7 - Waku Waku 7.png"
+    },
+    {
+      "rom": "wh1.zip",
+      "titulo": "World Heroes",
+      "capa": "wh1 - World Heroes.png"
+    },
+    {
+      "rom": "wh2.zip",
+      "titulo": "World Heroes 2",
+      "capa": "wh2 - World Heroes 2.png"
+    },
+    {
+      "rom": "wh2j.zip",
+      "titulo": "World Heroes 2 Jet",
+      "capa": "wh2j - World Heroes 2 Jet.png"
+    },
+    {
+      "rom": "whp.zip",
+      "titulo": "World Heroes Perfect",
+      "capa": "whp - World Heroes Perfect.png"
+    },
+    {
+      "rom": "wjammers.zip",
+      "titulo": "Windjammers",
+      "capa": "wjammers - Windjammers.png"
+    },
+    {
+      "rom": "zedblade.zip",
+      "titulo": "Zed Blade",
+      "capa": "zedblade - Zed Blade.png"
+    },
+    {
+      "rom": "zupapa.zip",
+      "titulo": "Zupapa!",
+      "capa": "zupapa - Zupapa!.png"
+    }
+  ]
+}
